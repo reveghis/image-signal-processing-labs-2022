@@ -1,4 +1,4 @@
-# Audio-Visual Data Processing (TAV)
+# Image and signal processing labs (TAV)
 
 > Practical assignments completed at **ENSEEIHT** (2SN MM) in 2022  
 > Language: **MATLAB**
