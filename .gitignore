@@ -1,0 +1,13 @@
+# macOS artifacts
+__MACOSX/
+.DS_Store
+._*
+
+# MATLAB auto-save and temp files
+*.asv
+*.m~
+slprj/
+*.mex*
+
+# MATLAB figures (generated outputs)
+*.fig
