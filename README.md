@@ -181,8 +181,3 @@ This lab implements methods to reconstruct a 2D image from its projections (sino
 
 - **MATLAB** R2018b or later (with Image Processing Toolbox)
 - Each lab is self-contained. Run `exercice_X.m` from within the corresponding TP folder.
-
-```matlab
-cd TP/TP1
-exercice_1
-```
